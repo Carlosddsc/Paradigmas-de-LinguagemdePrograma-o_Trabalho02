@@ -1,1 +1,2 @@
-# Paradigmas-de-LinguagemdePrograma-o_Trabalho02
+# list-python
+lista de tarefa em python para relembrar 
